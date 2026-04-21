@@ -16,7 +16,7 @@ from aiogram.filters import CommandStart
 
 import yt_dlp
 
-API_TOKEN = "8757587179:AAEoepQfNwEjrHP6ZOhPh3b4NbrGyuaIA50"
+API_TOKEN = "8757587179:AAHt87aQynrNAjlK1zDSUnYdCAjOaPcm0x8"
 
 logging.basicConfig(level=logging.INFO)
 
